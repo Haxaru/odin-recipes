@@ -1,5 +1,4 @@
-
-h1{
+h1 {
     background-color: orange;
     color: white;
 }
@@ -30,5 +29,5 @@ div {
   
   .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: 10px;
   }
